@@ -1,1 +1,1 @@
-# Competition-1---Customer-Segmentation
+# Hackathon - Analytics Vidhya - Customer Segmentation Classification 
